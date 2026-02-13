@@ -1,0 +1,9 @@
+{
+  "request_id": "REVIEW-20260212-104543",
+  "user_id": 12345,
+  "urgency": "HIGH",
+  "reason": "Immediate review required for potential security threat",
+  "requested_at": "2026-02-12T10:45:43.642089",
+  "requested_by": "audit-agent",
+  "status": "PENDING"
+}

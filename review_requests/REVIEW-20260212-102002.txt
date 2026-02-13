@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-102002
+User ID:      789
+Urgency:      HIGH
+Status:       PENDING
+Requested:    2026-02-12 10:20:02.829360
+
+REASON:
+----------------------------------------------------------------------
+Immediate review of user 789's activity required

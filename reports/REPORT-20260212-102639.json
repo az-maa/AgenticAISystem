@@ -1,0 +1,7 @@
+{
+  "report_id": "REPORT-20260212-102639",
+  "user_id": "U456",
+  "analysis": "User U456 showed brute-force pattern. Actions taken.",
+  "timestamp": "2026-02-12T10:26:39.357276",
+  "generated_by": "audit-agent"
+}

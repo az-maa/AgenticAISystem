@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-104222
+User ID:      U456
+Urgency:      MEDIUM
+Status:       PENDING
+Requested:    2026-02-12 10:42:22.266110
+
+REASON:
+----------------------------------------------------------------------
+Review of user U456's activity required

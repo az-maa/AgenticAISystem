@@ -1,0 +1,7 @@
+{
+  "report_id": "REPORT-20260212-113108",
+  "user_id": "user123",
+  "analysis": "User user123 showed unusual login attempts and off-hours activity. Actions taken.",
+  "timestamp": "2026-02-12T11:31:08.375336",
+  "generated_by": "audit-agent"
+}

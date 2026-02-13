@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260213-093451
+User ID:      user456
+Severity:     MEDIUM
+Status:       OPEN
+Created:      2026-02-13 09:34:51.417160
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Failed login attempts

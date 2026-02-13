@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-142156",
+  "user_id": "user123",
+  "severity": "LOW",
+  "reason": "Activity 2x above average - monitoring",
+  "timestamp": "2026-02-12T14:21:56.307308",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

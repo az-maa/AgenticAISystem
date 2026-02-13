@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-100146",
+  "user_id": "user123",
+  "severity": "MEDIUM",
+  "reason": "Unusual activity with critical error event and multiple login events",
+  "timestamp": "2026-02-12T10:01:46.574812",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

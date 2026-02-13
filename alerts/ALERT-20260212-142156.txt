@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-142156
+User ID:      user123
+Severity:     LOW
+Status:       OPEN
+Created:      2026-02-12 14:21:56.307308
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Activity 2x above average - monitoring

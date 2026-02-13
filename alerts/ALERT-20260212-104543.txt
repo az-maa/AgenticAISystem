@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-104543
+User ID:      12345
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 10:45:43.591691
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+20 failed logins in 2 minutes and suspicious DELETE operations

@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-112517
+User ID:      user123
+Urgency:      HIGH
+Status:       PENDING
+Requested:    2026-02-12 11:25:17.252597
+
+REASON:
+----------------------------------------------------------------------
+Immediate review required for user123

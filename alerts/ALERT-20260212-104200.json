@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-104200",
+  "user_id": "U456",
+  "severity": "MEDIUM",
+  "reason": "Unusual event volume and failure rate",
+  "timestamp": "2026-02-12T10:42:00.054653",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

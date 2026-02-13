@@ -1,0 +1,9 @@
+{
+  "request_id": "REVIEW-20260212-104222",
+  "user_id": "U456",
+  "urgency": "MEDIUM",
+  "reason": "Review of user U456's activity required",
+  "requested_at": "2026-02-12T10:42:22.263303",
+  "requested_by": "audit-agent",
+  "status": "PENDING"
+}

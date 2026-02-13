@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-133113
+User ID:      user1345555
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 13:31:13.783160
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+High event volume

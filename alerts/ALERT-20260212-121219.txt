@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-121219
+User ID:      user123
+Severity:     CRITICAL
+Status:       OPEN
+Created:      2026-02-12 12:12:19.563910
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+1 critical event in the last 24 hours

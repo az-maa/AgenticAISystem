@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-104200
+User ID:      U456
+Severity:     MEDIUM
+Status:       OPEN
+Created:      2026-02-12 10:42:00.054653
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Unusual event volume and failure rate

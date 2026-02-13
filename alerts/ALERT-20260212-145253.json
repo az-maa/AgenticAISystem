@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-145253",
+  "user_id": "user123",
+  "severity": "HIGH",
+  "reason": "5 failed logins in 2 minutes",
+  "timestamp": "2026-02-12T14:52:53.515435",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

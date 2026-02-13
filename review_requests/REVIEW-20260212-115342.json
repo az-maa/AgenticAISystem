@@ -1,0 +1,9 @@
+{
+  "request_id": "REVIEW-20260212-115342",
+  "user_id": "U456",
+  "urgency": "MEDIUM",
+  "reason": "Review required for UPDATE operations",
+  "requested_at": "2026-02-12T11:53:42.790727",
+  "requested_by": "audit-agent",
+  "status": "PENDING"
+}

@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-100146
+User ID:      user123
+Severity:     MEDIUM
+Status:       OPEN
+Created:      2026-02-12 10:01:46.574812
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Unusual activity with critical error event and multiple login events

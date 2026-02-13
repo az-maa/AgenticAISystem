@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-101545",
+  "user_id": "U456",
+  "severity": "HIGH",
+  "reason": "Unusual critical event volume and failed logins",
+  "timestamp": "2026-02-12T10:15:45.473736",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

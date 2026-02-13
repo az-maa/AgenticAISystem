@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-103536",
+  "user_id": 12345,
+  "severity": "HIGH",
+  "reason": "20 failed logins in 2 minutes and suspicious DELETE operations",
+  "timestamp": "2026-02-12T10:35:36.828609",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

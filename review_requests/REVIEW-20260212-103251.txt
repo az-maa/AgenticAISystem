@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-103251
+User ID:      1
+Urgency:      MEDIUM
+Status:       PENDING
+Requested:    2026-02-12 10:32:51.140804
+
+REASON:
+----------------------------------------------------------------------
+Similar event pattern to user 2 requires review

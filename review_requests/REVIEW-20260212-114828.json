@@ -1,0 +1,9 @@
+{
+  "request_id": "REVIEW-20260212-114828",
+  "user_id": 456,
+  "urgency": "HIGH",
+  "reason": "Immediate review required due to suspicious login activity",
+  "requested_at": "2026-02-12T11:48:28.200395",
+  "requested_by": "audit-agent",
+  "status": "PENDING"
+}

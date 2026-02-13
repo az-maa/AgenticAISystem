@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-122225",
+  "user_id": "user123",
+  "severity": "HIGH",
+  "reason": "Critical error event and multiple login attempts",
+  "timestamp": "2026-02-12T12:22:25.059596",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

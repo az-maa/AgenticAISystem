@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-101606
+User ID:      U456
+Urgency:      HIGH
+Status:       PENDING
+Requested:    2026-02-12 10:16:06.721204
+
+REASON:
+----------------------------------------------------------------------
+Immediate review required due to suspicious activity

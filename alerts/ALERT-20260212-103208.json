@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-103208",
+  "user_id": 2,
+  "severity": "MEDIUM",
+  "reason": "Similar event pattern to user 1",
+  "timestamp": "2026-02-12T10:32:08.860384",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-115852
+User ID:      U123
+Urgency:      CRITICAL
+Status:       PENDING
+Requested:    2026-02-12 11:58:52.289573
+
+REASON:
+----------------------------------------------------------------------
+Immediate review required

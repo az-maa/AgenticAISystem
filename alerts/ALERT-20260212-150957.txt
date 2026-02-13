@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-150957
+User ID:      user123
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 15:09:57.485501
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+CRITICAL database connection failure

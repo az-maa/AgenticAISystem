@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260213-093451",
+  "user_id": "user456",
+  "severity": "MEDIUM",
+  "reason": "Failed login attempts",
+  "timestamp": "2026-02-13T09:34:51.417160",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

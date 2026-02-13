@@ -1,0 +1,7 @@
+{
+  "report_id": "REPORT-20260212-104243",
+  "user_id": "U456",
+  "analysis": "User U456 showed unusual activity pattern. Actions taken.",
+  "timestamp": "2026-02-12T10:42:43.573514",
+  "generated_by": "audit-agent"
+}

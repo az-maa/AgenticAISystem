@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-133113",
+  "user_id": "user1345555",
+  "severity": "HIGH",
+  "reason": "High event volume",
+  "timestamp": "2026-02-12T13:31:13.783160",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

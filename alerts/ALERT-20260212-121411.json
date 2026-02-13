@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-121411",
+  "user_id": "user123",
+  "severity": "CRITICAL",
+  "reason": "1 critical event in the last 24 hours",
+  "timestamp": "2026-02-12T12:14:11.678023",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

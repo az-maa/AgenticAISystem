@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-151320",
+  "user_id": "user456",
+  "severity": "LOW",
+  "reason": "Initial review for user456",
+  "timestamp": "2026-02-12T15:13:20.531801",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

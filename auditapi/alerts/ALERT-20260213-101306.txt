@@ -1,0 +1,12 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID: ALERT-20260213-101306
+User ID: user123
+Severity: CRITICAL
+Status: OPEN
+Created: 2026-02-13 10:13:06.722180
+
+REASON:
+----------------------------------------------------------------------
+Database connection failed due to connection timeout after 30 seconds

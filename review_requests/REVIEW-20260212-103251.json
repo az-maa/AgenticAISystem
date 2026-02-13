@@ -1,0 +1,9 @@
+{
+  "request_id": "REVIEW-20260212-103251",
+  "user_id": 1,
+  "urgency": "MEDIUM",
+  "reason": "Similar event pattern to user 2 requires review",
+  "requested_at": "2026-02-12T10:32:51.137629",
+  "requested_by": "audit-agent",
+  "status": "PENDING"
+}

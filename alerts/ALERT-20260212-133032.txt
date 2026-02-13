@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-133032
+User ID:      user789
+Severity:     MEDIUM
+Status:       OPEN
+Created:      2026-02-12 13:30:32.227165
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+10 failed logins in 2 minutes

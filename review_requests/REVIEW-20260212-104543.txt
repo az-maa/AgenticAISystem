@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-104543
+User ID:      12345
+Urgency:      HIGH
+Status:       PENDING
+Requested:    2026-02-12 10:45:43.644823
+
+REASON:
+----------------------------------------------------------------------
+Immediate review required for potential security threat

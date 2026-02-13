@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-113108",
+  "user_id": "user123",
+  "severity": "MEDIUM",
+  "reason": "Unusual login attempts and off-hours activity",
+  "timestamp": "2026-02-12T11:31:08.261039",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-101545
+User ID:      U456
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 10:15:45.473736
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Unusual critical event volume and failed logins

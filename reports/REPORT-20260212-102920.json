@@ -1,0 +1,7 @@
+{
+  "report_id": "REPORT-20260212-102920",
+  "user_id": "U456",
+  "analysis": "User U456 showed unusual critical event pattern. Actions taken.",
+  "timestamp": "2026-02-12T10:29:20.067846",
+  "generated_by": "audit-agent"
+}

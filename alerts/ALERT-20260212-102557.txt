@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-102557
+User ID:      U456
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 10:25:57.097641
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+15 failed logins in 2 minutes

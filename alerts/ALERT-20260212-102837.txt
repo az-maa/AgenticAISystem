@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-102837
+User ID:      U456
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 10:28:37.968651
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Unusual critical events during off-hours

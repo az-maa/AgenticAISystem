@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-145253
+User ID:      user123
+Severity:     HIGH
+Status:       OPEN
+Created:      2026-02-12 14:52:53.515435
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+5 failed logins in 2 minutes

@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-150957",
+  "user_id": "user123",
+  "severity": "HIGH",
+  "reason": "CRITICAL database connection failure",
+  "timestamp": "2026-02-12T15:09:57.485501",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

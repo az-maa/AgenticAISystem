@@ -1,0 +1,13 @@
+SECURITY ALERT
+======================================================================
+
+Alert ID:     ALERT-20260212-103208
+User ID:      2
+Severity:     MEDIUM
+Status:       OPEN
+Created:      2026-02-12 10:32:08.860384
+Created By:   Audit Analysis Agent
+
+REASON:
+----------------------------------------------------------------------
+Similar event pattern to user 1

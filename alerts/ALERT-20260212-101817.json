@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-101817",
+  "user_id": 789,
+  "severity": "HIGH",
+  "reason": "High severity events and sensitive operations",
+  "timestamp": "2026-02-12T10:18:17.574587",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

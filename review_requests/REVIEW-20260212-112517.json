@@ -1,0 +1,9 @@
+{
+  "request_id": "REVIEW-20260212-112517",
+  "user_id": "user123",
+  "urgency": "HIGH",
+  "reason": "Immediate review required for user123",
+  "requested_at": "2026-02-12T11:25:17.249621",
+  "requested_by": "audit-agent",
+  "status": "PENDING"
+}

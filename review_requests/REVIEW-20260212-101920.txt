@@ -1,0 +1,12 @@
+MANUAL REVIEW REQUEST
+======================================================================
+
+Request ID:   REVIEW-20260212-101920
+User ID:      123
+Urgency:      MEDIUM
+Status:       PENDING
+Requested:    2026-02-12 10:19:20.746968
+
+REASON:
+----------------------------------------------------------------------
+Review of user 123's activity required

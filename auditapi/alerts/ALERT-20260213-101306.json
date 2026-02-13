@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260213-101306",
+  "user_id": "user123",
+  "severity": "CRITICAL",
+  "reason": "Database connection failed due to connection timeout after 30 seconds",
+  "timestamp": "2026-02-13T10:13:06.722180",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

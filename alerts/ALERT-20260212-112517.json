@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-112517",
+  "user_id": "user123",
+  "severity": "HIGH",
+  "reason": "Multiple failed logins or suspicious activity detected",
+  "timestamp": "2026-02-12T11:25:17.103367",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}

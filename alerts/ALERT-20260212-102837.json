@@ -1,0 +1,9 @@
+{
+  "alert_id": "ALERT-20260212-102837",
+  "user_id": "U456",
+  "severity": "HIGH",
+  "reason": "Unusual critical events during off-hours",
+  "timestamp": "2026-02-12T10:28:37.968651",
+  "status": "OPEN",
+  "created_by": "audit-agent"
+}
