@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-The AWB Audit Intelligence Platform is a proof-of-concept agentic AI system built during an internship at Attijariwafa Bank. The goal of the project is to demonstrate how autonomous AI agents can be applied to real-world banking security operations — specifically to the monitoring, analysis, and response to security audit events.
+The Audit Intelligence Platform is a proof-of-concept agentic AI system built during an internship . The goal of the project is to demonstrate how autonomous AI agents can be applied to real-world banking security operations — specifically to the monitoring, analysis, and response to security audit events.
 
 The system combines a full-stack web application (React + Spring Boot) with a custom-built autonomous AI agent that can query a live PostgreSQL database, reason about security patterns, and take automated actions such as generating alerts, reports, and sending email notifications.
 
