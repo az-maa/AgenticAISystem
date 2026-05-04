@@ -1,5 +1,5 @@
-# AWB Audit Intelligence Platform — Project Description
-## AI-Powered Security Audit System | Internship POC | Attijariwafa Bank
+# Audit Intelligence Platform — Project Description
+## AI-Powered Security Audit System | Internship POC 
 
 ---
 
